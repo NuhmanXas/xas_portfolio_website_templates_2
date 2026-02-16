@@ -1,0 +1,22 @@
+{
+  "name": "alex-carter-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Photography Portfolio Template",
+  "scripts": {
+    "start": "serve .",
+    "format": "prettier --write \"**/*.{html,css,js,json,md}\""
+  },
+  "keywords": [
+    "portfolio",
+    "photography",
+    "template",
+    "tailwind",
+    "seo"
+  ],
+  "author": "Xas Technology",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "serve": "^14.0.0"
+  }
+}
